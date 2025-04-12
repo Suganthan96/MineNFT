@@ -1,0 +1,18 @@
+.wallet-box {
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 12px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  background-color: #5a4bff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
